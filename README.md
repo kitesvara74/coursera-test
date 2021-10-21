@@ -1,2 +1,2 @@
 # coursera-test
-fist lesson
+coursera test repository
